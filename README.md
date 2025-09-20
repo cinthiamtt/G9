@@ -20,6 +20,7 @@ Um projeto simples em **HTML, CSS e JavaScript** para realizar sorteios de **Ami
 
 ## 📷 Preview
 
+![Amigo Secreto]<img width="953" height="434" alt="amigo_secreto" src="https://github.com/user-attachments/assets/64633fd2-7ce5-431c-b1db-9c131e0320ce" />
 
 ## 📄 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar e modificar.
